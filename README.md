@@ -1,3 +1,6 @@
+# Note
+example- 'to' and "To" are considered as two different word in my code so count for 'to' is different and count for 'To' is different.
+
 # Word Frequency Histogram
 
 This is a React.js application that fetches the contents of a text file, calculates the frequency of occurrence of each word, and displays a histogram of the 20 most occurring words. It provides an option to download the histogram data as a CSV file.
